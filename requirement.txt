@@ -1,0 +1,7 @@
+Flask
+Werkzeug
+python-dotenv
+SQLAlchemy
+Flask_sqlalchemy
+flask_jwt_extended
+passlib
