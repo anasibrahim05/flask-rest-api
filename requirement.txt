@@ -5,3 +5,5 @@ SQLAlchemy
 Flask_sqlalchemy
 flask_jwt_extended
 passlib
+flask-migrate
+gunicorn
